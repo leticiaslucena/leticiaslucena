@@ -3,8 +3,10 @@
 
 - 🔭 Estudante de Programação -Alura/Programa Oracle Next Education.
 - 🎓 Formada em RH. Experiencia de 3 anos na área trabalhista.
--  🤔 Estou em transição de carreira.
+- 💫  Estou em transição de carreira.
 -  ⚡ Constante Aprendizado.
+
+## Contatos:
 
 
 
