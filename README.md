@@ -1,10 +1,10 @@
 #  Letícia ✨
 ### Hello, Devs!! Bem-vindos ao meu perfil GitHub 👋
 
-- 🔭 Estudante de Programação -Alura/Programa Oracle Next Education.
+- 🔥 Sou Estudante de Programação -Alura/Programa Oracle Next Education.
 - 🎓 Formada em RH. Experiência de 3 anos na área trabalhista.
-- 💫  Estou em transição de carreira.
--  ⚡ Constante Aprendizado.
+- 💫 Estou em transição de carreira.
+- ⚡  Constante Aprendizado. 
 
 ## Contato:
 <a href="https://www.linkedin.com/in/leticiasantosferreira/" target="_blank"><img
