@@ -6,7 +6,11 @@
 - 💫 Estou em transição de carreira.
 - ⚡  Constante Aprendizado. 
 
-## Contato:
+## Conecte-se comigo:
+<a href="https://www.dio.me/users/leticiasantos_lucena" target="_blank"><img
+                src="https://lp.dio.me/wp-content/uploads/2023/04/diologo.png"
+                width="50px" height="50px" target="_blank"></a>  
+                
 <a href="https://www.linkedin.com/in/leticiasantosferreira/" target="_blank"><img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"
                 width="70px" height="70px" target="_blank"></a>
